@@ -2,7 +2,7 @@
 Official repository of "Large multimodal model-based mobility management" 
 
 We have uploaded the channel capacity map (CCM) estimation stage now.
-Please run ""inference.py"".
+Please run **inference.py**.
 
 ## Citation
 
