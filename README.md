@@ -11,7 +11,7 @@ Requirements.txt will be uploaded soon.
 
 If you use this project in your research, please cite it as follows.
 
-### **BibTeX**
+### **BibTeX** (IEEE Style)
 ```bibtex
 @inproceedings{jeong2025large,
   title={Large multimodal model-aided geometry-aware mobility management for {6G} ultra-dense networks},
