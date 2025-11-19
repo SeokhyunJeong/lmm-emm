@@ -7,8 +7,6 @@ We have uploaded the channel capacity map (CCM) estimation stage.
 Please run **inference.py**.  
 Requirements.txt will be uploaded soon.  
 
-The dataset can also be found in HuggingFace: https://huggingface.co/datasets/Seokhyun1/lmm_emm.  
-
 ## Citation
 
 If you use this project in your research, please cite it as follows.
