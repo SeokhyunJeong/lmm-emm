@@ -120,12 +120,12 @@ def main():
 
     # ----- 설정 -----
     os.environ.setdefault("WANDB_PROJECT", "lmms-ft")
-    data_path = "data/short_rate_test_full_trajectory.json"
-    save_file_name = "data/infer_short_rate_full.csv"
+    data_path = "data/rate_test_full_trajectory.json"
+    save_file_name = "data/infer_rate_full.csv"
     num_data = 10000
 
     original_model_id = "llava-hf/llava-1.5-7b-hf"
-    model_id = "./checkpoints/llava-1.5-7b_short_rate_full_lora-True_qlora-False_0.1_6"
+    model_id = "./checkpoints/llava-1.5-7b_rate_full_lora-True_qlora-False_0.1_6"
 
     image_file = "data/mapfigure.png"
 
@@ -270,3 +270,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
