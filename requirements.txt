@@ -17,7 +17,6 @@ fastapi==0.115.5
 ffmpy==0.4.0
 filelock==3.16.1
 flash==1.0.3
-flash_attn==2.7.4.post1
 fonttools==4.55.0
 fsspec==2024.10.0
 gitdb==4.0.11
