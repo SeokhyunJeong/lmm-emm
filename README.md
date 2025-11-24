@@ -15,8 +15,10 @@ https://drive.google.com/drive/folders/1qyWtTl51kjruP_Psrj7bFMWDcvId5DE7?usp=sha
 ## Usage
 
 ### 1. Clone Repository
-git clone https://github.com/SeokhyunJeong/lmm-emm.git
-cd lmm-emm
+```
+git clone https://github.com/SeokhyunJeong/lmm-emm.git. 
+cd lmm-emm. 
+```
 
 ### 2. Install Requirements
 pip install -r requirements.txt
