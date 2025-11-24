@@ -4,8 +4,6 @@ The official repository of
 "Large multimodal model-aided geometry-aware mobility management for 6G ultra-dense networks", In Proc. IEEE Global Communication Conference 2025.
 
 We have uploaded the channel capacity map (CCM) estimation stage.  
-Please run **inference.py**.  
-Requirements.txt will be uploaded soon.  
 
 You can download the fine-tuned models from the Google Drive link provided below  
 (Download the entire folder and place it in your working directory):  
@@ -36,7 +34,9 @@ https://drive.google.com/drive/folders/1qyWtTl51kjruP_Psrj7bFMWDcvId5DE7?usp=sha
 python inference.py
 ```
 
-
+## Updates
+* **20251124** requirements.txt added
+* **20251119** lmm-emm repository opened
 
 ## Citation
 
